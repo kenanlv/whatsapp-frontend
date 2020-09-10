@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## WhatsApp MERN Stack Clone
+
+This is a MERN full stack WhatsApp clone.
+
+This repo is only the frontend (with React), and the backend (MongoDB, Express.js, and Node.js) is hosted on `Heroku`
 
 ## Available Scripts
 
